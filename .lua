@@ -1,6 +1,6 @@
 -- Made by MSOP Panel (https://mnaii.vercel.app)
 
-local SLATE_URL = "https://raw.githubusercontent.com/PulseZax/Slate/refs/heads/main/.lua"
+local SLATE_URL = "https://raw.githubusercontent.com/MeowSamOPDZN/msop-panel-loader/main/slate.lua"
 
 
 local CATALOG = {
